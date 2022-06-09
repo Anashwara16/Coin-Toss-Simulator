@@ -1,9 +1,4 @@
-// Name: Anashwara Rajinkumar Puthlat
-// USC NetID: puthlat
-// USC ID: 2138-2056-39
-// Course: CSCI-455 
-// Assignment: PA1
-// Semester: Fall-2021
+
 
 
 /** 
